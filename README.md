@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on to develop my web development skills and problem solving ability.
+- 🌱 I’m currently learning MERN stack.
+- 📫 How to reach me: [nsabishek05@gmail.com]
+- ⚡ A developer is someone who develops not just software, but also themselves consistently.
+
 <!--
 **ABISHEK-NS1/ABISHEK-NS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
